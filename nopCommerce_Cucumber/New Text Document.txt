@@ -1,0 +1,2 @@
+cd C:\Sneha\Selenium Automation\Programs\nopCommerce_Cucumber
+mvn clean install
